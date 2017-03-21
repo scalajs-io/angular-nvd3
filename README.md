@@ -42,7 +42,7 @@ $ sbt test
 To add the `angular-nvd3` binding to your project, add the following to your build.sbt:  
 
 ```sbt
-libraryDependencies += "io.scalajs.npm" %%% "angular-nvd3" % "1.0.9"
+libraryDependencies += "io.scalajs.npm" %%% "angular-nvd3" % "1.0.9-1"
 ```
 
 Optionally, you may add the Sonatype Repository resolver:
