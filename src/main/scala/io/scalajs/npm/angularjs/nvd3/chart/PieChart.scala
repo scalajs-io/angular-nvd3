@@ -3,13 +3,13 @@ package io.scalajs.npm.angularjs.nvd3.chart
 import io.scalajs.npm.angularjs.nvd3.Legend
 
 import scala.scalajs.js
-import scala.scalajs.js.annotation.ScalaJSDefined
+
 
 /**
   * nvD3 Pie Chart
   * @author lawrence.daniels@gmail.com
   */
-@ScalaJSDefined
+
 class PieChart(val id: js.UndefOr[String] = js.undefined,
                val width: js.UndefOr[Int] = js.undefined,
                val height: js.UndefOr[Int] = js.undefined,
